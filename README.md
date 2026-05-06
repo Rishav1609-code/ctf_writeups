@@ -25,9 +25,9 @@ The goal of this repo is to both **share knowledge** and **showcase my skills** 
 This repo serves as:
 
 * A **knowledge base** for my solved CTF challenges
-* A **portfolio** of my cybersecurity and problem-solving skills
+* A **portfolio**(https://rishav-r-portfolio.lovable.app/) of my cybersecurity and problem-solving skills
 * A way to **give back to the community** by sharing methodologies and insights
 
 If you have any questions, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rishav_Raj-blue)](http://www.linkedin.com/in/rishav-raj-607959321) ![Discord](https://img.shields.io/badge/DISCORD-R15H4V%230-blue?logo=discord)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Rishav_Raj-blue)](http://www.linkedin.com/in/rishav-raj-607959321) [![Last Commit](https://img.shields.io/badge/PORTFOLIO-yellowgreen)](https://rishav-r-portfolio.lovable.app) ![Discord](https://img.shields.io/badge/DISCORD-R15H4V%230-blue?logo=discord)
