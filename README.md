@@ -25,7 +25,7 @@ The goal of this repo is to both **share knowledge** and **showcase my skills** 
 This repo serves as:
 
 * A **knowledge base** for my solved CTF challenges
-* A **portfolio**(https://rishav-r-portfolio.lovable.app/) of my cybersecurity and problem-solving skills
+* A **portfolio** of my cybersecurity and problem-solving skills
 * A way to **give back to the community** by sharing methodologies and insights
 
 If you have any questions, feel free to reach out!
