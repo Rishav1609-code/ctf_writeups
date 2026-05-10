@@ -7,17 +7,18 @@ Welcome to the writeup repository for **Team Root@Kali** for the **CYBERGEEK'26 
 # 🏆 Team Overview
 
 - **Team Name:** Root@Kali  
-- **Team Members:** - Rooted Kali (@rooted_kali)  
+- **Team Members:** -
+  - Rooted Kali (@rooted_kali)  
   - Rishav Raj (@Rishav_1609)  
   - Vishu Raj (@Vishu)  
 
-![Team Members](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{_IIIT Allahabad_}-Screenshots/Screenshot 2026-04-18 030536.png)
+![Team Members](Screenshots/Screenshot%202026-04-18%20030536.png)
 
 - **Final Rank:** 65  
 - **Score:** 7350 Points  
 - **Flags Captured:** 19  
 
-![Leaderboard](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{_IIIT Allahabad_}-Screenshots/Screenshot 2026-04-19 100537.png)
+![Leaderboard](Screenshots/Screenshot%202026-04-19%20100537.png)
 
 ---
 
@@ -33,8 +34,8 @@ Cybergeek CTF is a high-octane, Jeopardy-style competition sponsored by **CTF7**
 - Forensics
 - OSINT
 
-![Event Details](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{_IIIT Allahabad_}-Screenshots/Screenshot 2026-04-18 030234.png)
-![Categories](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{_IIIT Allahabad_}-Screenshots/Screenshot 2026-04-18 030125.png)
+![Event Details](Screenshots/Screenshot%202026-04-18%20030234.png)
+![Categories](Screenshots/Screenshot%202026-04-18%20030125.png)
 
 ---
 
@@ -45,7 +46,7 @@ Cybergeek CTF is a high-octane, Jeopardy-style competition sponsored by **CTF7**
 ### Description
 > Our "impenetrable" secure document viewer is finally live. We've implemented a state-of-the-art Web Application Firewall to stop those pesky ../ attacks, and we've moved all our sensitive authentication keys out of the source code and directly into the system's soul. The lead dev says the only way to get the flag is to be the admin, but the admin password is generated at runtime and never written to disk. Can you trick the Oracle into revealing its own secrets?
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{_IIIT Allahabad_}-Screenshots/Screenshot_2026-04-18-11-38-36-637_com.android.chrome.jpg)
+![Challenge Description](Screenshots/Screenshot_2026-04-18-11-38-36-637_com.android.chrome.jpg)
 
 ### Challenge URL
 ```text
@@ -73,7 +74,7 @@ fetch('[https://ctf-lfi-ctf-lfi.vinm.me/api/flag](https://ctf-lfi-ctf-lfi.vinm.m
 
 ```
 
-![Exploit Execution](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-11-36-47-043_com.whatsapp.jpg)
+![Exploit Execution](Screenshots/Screenshot_2026-04-18-11-36-47-043_com.whatsapp.jpg)
 
 ### Flag
 
@@ -82,7 +83,7 @@ geek{i_am_6atman}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-11-38-42-926_com.android.chrome.jpg)
+![Solved State](Screenshots/Screenshot_2026-04-18-11-38-42-926_com.android.chrome.jpg)
 
 ---
 
@@ -92,7 +93,7 @@ geek{i_am_6atman}
 
 > blah blah blah blah
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-11-59-31-163_com.android.chrome.jpg)
+![Challenge Description](Screenshots/Screenshot_2026-04-18-11-59-31-163_com.android.chrome.jpg)
 
 ### Flag
 
@@ -101,7 +102,7 @@ geek{k0h_nah_m3}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-11-59-46-358_com.android.chrome.jpg)
+![Solved State](Screenshots/Screenshot_2026-04-18-11-59-46-358_com.android.chrome.jpg)
 
 ---
 
@@ -113,7 +114,7 @@ geek{k0h_nah_m3}
 
 > Our internal network monitors flagged an unusual spike in ICMP traffic between two developer workstations last night. While the packet volume was low, the timing was highly irregular. We've captured a snippet of the conversation in the attached PCAP (`capture_XTpM7L8.pcap`). On the surface, it's just a series of pings. But N-Corp doesn't pay its engineers to spend all night pinging each other. Look closer.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030857.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-18%20030857.png)
 
 ### Solution
 
@@ -143,8 +144,8 @@ print(flag)
 
 ```
 
-![Script Running](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 014103.png)
-![Flag Extraction](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 015205.png)
+![Script Running](Screenshots/Screenshot%202026-04-19%20014103.png)
+![Flag Extraction](Screenshots/Screenshot%202026-04-19%20015205.png)
 
 ### Flag
 
@@ -161,7 +162,7 @@ geek{h34d3r_sh3n4n1g4ns_v14_1cmp}
 
 > You think it's special, but its all reused.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030521.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-18%20030521.png)
 
 ### File
 
@@ -181,8 +182,8 @@ strings strawberry_ice_cream.jpg | grep "geek"
 
 revealed fake flags inside XMP metadata tags.
 
-![Terminal Output Fake Flags](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 023922.png)
-![Terminal Output Command](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 070317.png)
+![Terminal Output Fake Flags](Screenshots/Screenshot%202026-04-19%20023922.png)
+![Terminal Output Command](Screenshots/Screenshot%202026-04-19%20070317.png)
 
 However, examining the complete `strings` output and checking appended data beyond the EOF markers exposed the real flag.
 
@@ -201,7 +202,7 @@ geek{4pp3nd_1s_n0t_alw4ys_f4f4f4}
 
 > Our investigators have recovered a Git repository from a suspect known as "The Timekeeper." On the surface, the repository contains nothing but a series of mundane updates to a single text file. However, a behavioral analyst noted that the suspect was obsessed with precision and rhythm.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030214.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-18%20030214.png)
 
 ### File
 
@@ -217,7 +218,7 @@ geek{t1m3_tr4v3l_c0mm1t5}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030256.png)
+![Solved State](Screenshots/Screenshot%202026-04-18%20030256.png)
 
 ---
 
@@ -227,7 +228,7 @@ geek{t1m3_tr4v3l_c0mm1t5}
 
 > The artifact has a heart that beats only when it's told to. Good luck finding the pulse.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 074154.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20074154.png)
 
 ### File
 
@@ -243,7 +244,7 @@ geek{p0lygl0t_ch4n3l3on_m4st3r_2026}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 074210.png)
+![Solved State](Screenshots/Screenshot%202026-04-19%20074210.png)
 
 ---
 
@@ -253,7 +254,7 @@ geek{p0lygl0t_ch4n3l3on_m4st3r_2026}
 
 > pee dee ef
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 073624.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20073624.png)
 
 ### File
 
@@ -269,7 +270,7 @@ geek{I_l0ve_PDF}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 073638.png)
+![Solved State](Screenshots/Screenshot%202026-04-19%20073638.png)
 
 ---
 
@@ -279,7 +280,7 @@ geek{I_l0ve_PDF}
 
 > Read the caption. You may take it literally. Find the flag.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 092914.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20092914.png)
 
 ### File
 
@@ -305,7 +306,7 @@ geek{six_feet_under_the_surface}
 
 > Do you consider yourself a planespotter? an aviation geek? or someone who scrolls through Flightradar24? Well then, let me test your ball knowledge.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-12-07-34-200_com.android.chrome.jpg)
+![Challenge Description](Screenshots/Screenshot_2026-04-18-12-07-34-200_com.android.chrome.jpg)
 
 ### Sample Flag Format
 
@@ -332,7 +333,7 @@ geek{january2022}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-12-07-41-292_com.android.chrome.jpg)
+![Solved State](Screenshots/Screenshot_2026-04-18-12-07-41-292_com.android.chrome.jpg)
 
 ---
 
@@ -344,8 +345,8 @@ geek{january2022}
 
 > Important - Registration & Bonus Challenge.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 020809.png)
-![Discord Announcement](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-18-16-09-56-967_com.discord.jpg)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20020809.png)
+![Discord Announcement](Screenshots/Screenshot_2026-04-18-16-09-56-967_com.discord.jpg)
 
 Participants had to:
 
@@ -364,9 +365,9 @@ Registered emails:
 
 Captured dashboard screenshots and submitted them to Vox Dei.
 
-![Signup](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 012531.png)
-![Dashboard](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 015706.png)
-![Discord Submission](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot_2026-04-19-02-07-17-474_com.discord.jpg)
+![Signup](Screenshots/Screenshot%202026-04-19%20012531.png)
+![Dashboard](Screenshots/Screenshot%202026-04-19%20015706.png)
+![Discord Submission](Screenshots/Screenshot_2026-04-19-02-07-17-474_com.discord.jpg)
 
 ### Flag
 
@@ -375,7 +376,7 @@ geek{try_click0_b0nus_challenge_11}
 
 ```
 
-![Solved State](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 020823.png)
+![Solved State](Screenshots/Screenshot%202026-04-19%20020823.png)
 
 ---
 
@@ -385,7 +386,7 @@ geek{try_click0_b0nus_challenge_11}
 
 > "Broke my heart now keep arranging shards"
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 101902.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20101902.png)
 
 ### File
 
@@ -398,7 +399,7 @@ lol.zip
 
 The archive contained fragmented image pieces. Reassembling them revealed a graffiti-style emoji flag.
 
-![Image Reassembly](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/IMG_20260421_001800.jpg)
+![Image Reassembly](Screenshots/IMG_20260421_001800.jpg)
 
 ### Flag
 
@@ -422,7 +423,7 @@ geek{🍞💜}
 
 > What a flag is if not product of our routes?
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 022457.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20022457.png)
 
 ### File
 
@@ -448,7 +449,7 @@ geek{216}
 
 > In every circle of life, there's always that one spark that keeps everyone moving. Good Luck!
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-19 023321.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-19%20023321.png)
 
 ### Cipher Text
 
@@ -481,7 +482,7 @@ geek{Z0mb1E_g3neral0R}
 
 > Node B4 left this behind. We don't know how it works, but it requires both the executor and the fragment to run.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030525.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-18%20030525.png)
 
 ### Goal
 
@@ -508,7 +509,7 @@ The_Fragment.zip
 
 > Welcome to the funhouse. The walls are shifting, the locks change every cycle, and your debuggers are going to lie to you.
 
-![Challenge Description](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030845.png)
+![Challenge Description](Screenshots/Screenshot%202026-04-18%20030845.png)
 
 ### File
 
@@ -523,10 +524,10 @@ chall_aLyMUHu
 
 Team **Root@Kali's** solved timeline across the CTF!
 
-![Solved Dashboard 1](Screenshots/Screenshot_2026-04-18_030321.png)
-![Solved Dashboard 2](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030412.png)
-![Solved Dashboard 3](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030635.png)
-![All Challenges View](Rishav1609-code ctf_writeups main CYBERGEEK'26_CTF_{*IIIT Allahabad*}-Screenshots/Screenshot 2026-04-18 030612.png)
+![Solved Dashboard 1](Screenshots/Screenshot%202026-04-18%20030635.png)
+![Solved Dashboard 2](Screenshots/Screenshot%202026-04-18%20030412.png)
+![Solved Dashboard 3](Screenshots/Screenshot%202026-04-18%20030321.png)
+![All Challenges View](Screenshots/Screenshot%202026-04-18%20030612.png)
 
 ---
 
