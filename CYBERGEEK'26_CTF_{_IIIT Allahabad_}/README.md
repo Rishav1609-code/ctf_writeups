@@ -35,7 +35,6 @@ Cybergeek CTF is a high-octane, Jeopardy-style competition sponsored by **CTF7**
 - OSINT
 
 ![Event Details](Screenshots/Screenshot%202026-04-18%20030234.png)
-![Categories](Screenshots/Screenshot%202026-04-18%20030125.png)
 
 ---
 
@@ -528,6 +527,7 @@ Team **Root@Kali's** solved timeline across the CTF!
 ![Solved Dashboard 2](Screenshots/Screenshot%202026-04-18%20030412.png)
 ![Solved Dashboard 3](Screenshots/Screenshot%202026-04-18%20030321.png)
 ![All Challenges View](Screenshots/Screenshot%202026-04-18%20030612.png)
+![Categories](Screenshots/Screenshot%202026-04-18%20030125.png)
 
 ---
 
